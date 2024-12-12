@@ -1,0 +1,126 @@
+/* body{
+		
+	border:1px solid black;
+	height: 900px;
+	width: 900px;
+	margin: 0px 100px 100px 100px;
+} */
+.ludo{
+	
+	border:1px solid black;
+	/* height: 580px; */
+	width: 700px;
+	margin: 0px 100px 100px 100px;
+	box-sizing: border-box;
+	
+}
+.div1{
+	border:1px solid black;
+	/* height: 230px; */
+	width:  275px;
+	float: left;
+	background-color: red;
+	display: grid;
+	grid-area: 1/1/3/3;
+	
+}
+.tabb4{
+	
+	border: 3px solid yellow;
+      /* height: 100px; */
+	  /* width: 250px; */
+	/* background-color: red;  */
+	/* margin-left: -200px; */
+	border-collapse: collapse;
+	width: 278px;
+	float: left;
+	/* margin-left: -100px; */
+
+}
+td{
+	border: 4px solid black;
+    width: 40.6px;
+	height: 29.3px;
+	/* background-color: aqua; */
+}
+.tab td{
+	height: 30.6px;
+}
+
+.tab2{
+	border:1px solid black;
+	border-collapse: collapse;
+}
+.div2{
+	float: left;
+	border:1px solid black;
+	/* height: 230px; */
+	width:  275px;
+	float: left;
+	background-color: green;
+}
+.tab{
+	border:1px solid black;
+	border-collapse: collapse;
+	float: left;
+}
+.div3{
+	border:1px solid black;
+	/* height: 230px; */
+	width:  275px;
+	float: left;
+	background-color: blue;
+}
+
+
+
+.tab3{
+	border:1px solid black;
+	border-collapse: collapse;
+	float: left;
+}
+#tab3id td{
+  height: 31px;
+}
+
+.div4{
+	float: left;
+	border:1px solid black;
+	/* height: 230px; */
+	width:  275px;
+	float: left;
+	background-color: yellow;
+}
+.white{
+	border: 1px solid ; 
+	height: 160px;
+	width: 160px;
+	padding: 10px  10px 0 10px;
+	margin	: 40px  10px 10px 50px;
+	background-color: rgb(202, 175, 175);
+
+}
+.newdiv{
+	width: 140px;
+	height: 107px;
+	border: 2px solid black;
+	float: left;
+	background-image: url(ludo.jpg);
+	background-size: cover;
+	background-position: center;
+}
+.trangle{
+	margin-top: -30px;
+	margin-left: -19px;
+	font-size: 140px;
+	color: red;
+	width: 9%;
+}
+/* .newtable{
+	width: 70px;
+	height: 70px;
+} */
+ .fa-triangle{
+   font-size: 150px;
+   color: brown;
+ }
